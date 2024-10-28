@@ -4,7 +4,7 @@ import MarkdownItPlantuml from 'markdown-it-plantuml';
 
 export default defineUserConfig({
   // Замінити на назву свого репозиторія
-  base: "/databases-labs/",
+  base: "/db-coursework/",
 
   lang: "en-US",
   // Замінити на назву свого проєкту
